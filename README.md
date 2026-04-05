@@ -2,7 +2,7 @@
 
 # ⚡ grikit
 
-[![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.0-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/artemwilson-dev1993r5/grikit?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/artemwilson-dev1993r5/grikit?style=flat-square)
+[![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.1-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/artemwilson-dev1993r5/grikit?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/artemwilson-dev1993r5/grikit?style=flat-square)
 
 Grimson, an open-source tool, offers live monitoring, theme management, and simple configuration
 
