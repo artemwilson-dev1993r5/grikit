@@ -1,0 +1,11 @@
+# grikit configuration
+
+general:
+ verbose: false
+ log_level: INFO
+ output_dir: ./output
+
+settings:
+ threads: 4
+ timeout: 30
+ retry: 3
